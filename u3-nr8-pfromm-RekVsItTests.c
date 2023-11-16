@@ -4,8 +4,8 @@
 //----------------------------------------------------------------------------
 // Rekursion: Wenn die Funktion sich selbst aufruft.
 // 1.Wir brauchen immer eine Abbruchbedingung als Basecase.
-// 2. Ausgabe des Basecase bestimmen. Was würden wir Ausgeben, wenn wir beim Basecase wären.
-// 3. Von nun an müssen wir dafür sorgen, dass der Basecase eintreten kann.
+// 2. Ausgabe des Basecase bestimmen. Was wÃ¼rden wir Ausgeben, wenn wir beim Basecase wÃ¤ren.
+// 3. Von nun an mÃ¼ssen wir dafÃ¼r sorgen, dass der Basecase eintreten kann.
 
 //Division Iteration:
 int divit(int dividend, int divisor){
@@ -89,7 +89,7 @@ int fibit(int in){
 //----------------------------------------------------------------------------
 //----------------------------------------------------------------------------
 // Iteration: Linearer Verlauf
-// Rekursion: Exponentieller Verlauf => kann ne weile Dauern, auch auf dem MacBook Pro von Leon.
+// Rekursion: Exponentieller Verlauf => kann ne weile Dauern, auch auf dem Surface von Erkan.
 
 int main(void){
 	
